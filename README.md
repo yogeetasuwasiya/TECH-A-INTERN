@@ -8,9 +8,9 @@ A classic machine learning task involving the classification of iris flowers int
 ## TCS Stock Price Prediction: 
 Using historical stock price data of TCS (Tata Consultancy Services), the goal is to predict future stock prices using machine learning techniques.
 
-### Project Details
+## Project Details
 
-#### Iris Classification
+## Iris Classification
 ###### Objective: 
 To classify iris flowers into three species (Setosa, Versicolor, Virginica) based on four features: sepal length, sepal width, petal length, and petal width.
 ##### Dataset: 
@@ -20,7 +20,7 @@ Employed various machine learning algorithms such as decision trees, random fore
 ##### Evaluation: 
 Model performance was evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
-#### TCS Stock Price Prediction
+## TCS Stock Price Prediction
 ##### Objective: 
 To predict the future stock price of TCS based on historical stock price data and potentially other relevant features.
 ##### Dataset: 
@@ -30,6 +30,6 @@ Utilized time series forecasting techniques, possibly including autoregressive i
 ##### Evaluation: 
 Model performance was assessed using metrics such as mean squared error (MSE), mean absolute error (MAE), and potentially others depending on the specific implementation.
 
-#### Usage
+## Usage
 
 Each project folder contains the necessary code, datasets, and documentation to reproduce the results. Detailed instructions on running the code and any dependencies required are provided within each project's README file.
